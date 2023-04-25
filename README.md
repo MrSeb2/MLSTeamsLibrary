@@ -32,5 +32,5 @@ A library of functions that can work with basic MLS Team inputs.
 ##### Takes an MLS team as a paremeter and returns its existing years 
 ###### team {string} - The desired team
 ###### return {string} - The existing years
-**`function getExistingYears(team)**`
+**`function getExistingYears(team)`**
 #
