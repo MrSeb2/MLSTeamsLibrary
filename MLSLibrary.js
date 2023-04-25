@@ -1,4 +1,3 @@
-//next year on april fools. Ms. Macavoy agreed to let me teach a course about fools. 
 var url = "https://raw.githubusercontent.com/b-mcavoy/datasets/main/Sports/MLS%20Teams.csv"
 
 var teamNames = getColumn(url,1);
