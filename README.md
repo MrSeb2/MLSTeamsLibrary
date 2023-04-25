@@ -5,3 +5,4 @@ A library of functions that can work with basic MLS Team inputs.
 ###### conference {string} - The desired conference
 ###### return {list} - The list of matching teams
 #
+**`function getTeamsFromConference(conference)`**
